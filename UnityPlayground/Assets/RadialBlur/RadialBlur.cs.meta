@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3217d0b8ff4ee99469221287fa7e7f14
+timeCreated: 1510331498
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - matRadial: {fileID: 2100000, guid: ad6a4926407813c4e85bf05c92e03682, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
